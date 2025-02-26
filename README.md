@@ -1,2 +1,2 @@
-# data-analist-project
-Thise is data analist project Airbnb_Listing_project
+# Airbnb_Listing_project
+# Airbnb Listing Optimization and Market Analysis project focuses on optimizing Airbnb pricing strategies to increase occupancy while maximizing revenue. I analyzed Airbnb datasets, applied data cleaning and analysis techniques. The project provides insights into market trends, competitive pricing, and factors affecting booking rates, helping hosts make data-driven decisions
